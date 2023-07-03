@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "tropa.h": "c",
+        "ultron.h": "c",
+        "cobra.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "mapa.h": "c"
+    }
+}
